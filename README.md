@@ -1,1 +1,4 @@
-# devops-aula05
+# devops-aula05 
+Pokemon
+Birdbox
+Juno
